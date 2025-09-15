@@ -120,3 +120,38 @@ If you’d like to contribute:
 ### License
 This project is licensed under the [MIT License](./LICENSE).  
 You’re free to use, modify, and share it, as long as proper attribution is given.  
+
+🚀 Early Work & Roadmap
+Phase 1: Concept Foundations (✔️ Completed)
+
+Developed the Effort–Satisfaction Matrix as a core framework.
+
+Created visual diagrams to illustrate the 1a/1b/2a/2b pathways.
+
+Aligned the framework with the mission of Neo-Renaissance Humanism — blending STEM, humanities, and AI.
+
+Phase 2: Initial Prototyping (🔄 In Progress)
+
+Design lightweight demo tools (static mockups, simple scripts) to simulate MHT pathways.
+
+Explore integration options with OpenAI’s API for conversational and personalized guidance.
+
+Gather early feedback from peers and mentors.
+
+Phase 3: MVP Development (⏳ Upcoming)
+
+Build an AI-powered interactive platform (web/app) for goal setting, reflection, and habit tracking.
+
+Incorporate personalized recommendations based on data science + behavioral psychology.
+
+Validate early use cases through pilot testing with a small group.
+
+Phase 4: Community & Scaling (🌍 Future)
+
+Foster a builder + user community around NRHC principles.
+
+Iterate on the platform based on community feedback and research insights.
+
+Scale features to support both 1b → 1a transitions (finding fulfillment in effort) and 2b → 2a transitions (finding contentment without struggle).
+
+_Current focus: Prototyping core features (Phase 2)_
