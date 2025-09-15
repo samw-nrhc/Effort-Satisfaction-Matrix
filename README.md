@@ -1,5 +1,11 @@
 # Effort–Satisfaction Matrix (ES Matrix)
 
+The **Effort–Satisfaction Matrix (ES Matrix)** is a simple but powerful framework for reflecting on how effort relates to fulfillment in everyday life.  
+
+Most people fluctuate between working hard but feeling dissatisfied (1b) or doing the bare minimum but still unhappy (2b). Rarely do people reach **aligned effort with fulfillment (1a)** or **contentment without struggle (2a)**—and those outcomes are often shaped by forces outside our control, such as genetics, upbringing, and environment.  
+
+This project provides visual diagrams, explanations, and future plans for how the matrix can support individuals, researchers, and tools like the **Maximum Happiness Tool (MHT)**.  
+
 ## What is this project?
 The Effort–Satisfaction Matrix (ES Matrix) is a **visual framework** for understanding how effort and fulfillment interact in personal and professional growth.  
 
