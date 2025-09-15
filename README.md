@@ -37,6 +37,26 @@ The core of this project is a set of **visual diagrams** that map effort vs. sat
 Click the links above or browse the `/` folder to see the images directly.  
 
 ---
+## Future Directions
+
+This repository is just the starting point for the **Effort–Satisfaction Matrix (ES Matrix)**.  
+Planned next steps include:  
+
+- **Interactive Version**  
+  Build an interactive web app where users can map their own effort vs. satisfaction over time.  
+
+- **Integration with the Maximum Happiness Tool (MHT)**  
+  Use the ES Matrix as one of the core frameworks inside the MHT platform to guide users from dissatisfaction toward fulfillment or contentment.  
+
+- **Research Collaborations**  
+  Explore connections to psychology, education, organizational behavior, and career development. Collaborations could help validate the framework and refine its applications.  
+
+- **Case Studies & Examples**  
+  Add real-world stories, use cases, and visual walkthroughs showing how individuals or teams can apply the ES Matrix.  
+
+- **Community Input**  
+  Open the repo for contributions, feedback, and adaptations—helping the matrix evolve into a shared tool for human flourishing.  
+
 ## Diagrams
 
 ### 1. Base Matrix
