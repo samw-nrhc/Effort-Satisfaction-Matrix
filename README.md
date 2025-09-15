@@ -56,7 +56,7 @@ Planned next steps include:
 
 - **Community Input**  
   Open the repo for contributions, feedback, and adaptations—helping the matrix evolve into a shared tool for human flourishing.  
-
+---
 ## Diagrams
 
 ### 1. Base Matrix
