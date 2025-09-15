@@ -43,26 +43,44 @@ The core of this project is a set of **visual diagrams** that map effort vs. sat
 Click the links above or browse the `/` folder to see the images directly.  
 
 ---
-## Future Directions
+## Future Directions  
 
-This repository is just the starting point for the **Effort–Satisfaction Matrix (ES Matrix)**.  
-Planned next steps include:  
+This repository is an early step in developing the Effort–Satisfaction Matrix into a practical tool for both individuals and researchers. Upcoming directions include:  
 
-- **Interactive Version**  
-  Build an interactive web app where users can map their own effort vs. satisfaction over time.  
+- **Interactive Prototype**: a web-based version where users can map their own effort vs. satisfaction.  
+- **Integration with MHT**: using the matrix as a guiding framework inside the Maximum Happiness Tool.  
+- **Research Collaborations**: exploring applications in psychology, education, organizational behavior, and career development.  
+- **Case Studies**: adding real-world stories and examples of how individuals or teams apply the matrix.  
+- **Community Input**: opening the project for contributions, feedback, and adaptations.  
 
-- **Integration with the Maximum Happiness Tool (MHT)**  
-  Use the ES Matrix as one of the core frameworks inside the MHT platform to guide users from dissatisfaction toward fulfillment or contentment.  
-
-- **Research Collaborations**  
-  Explore connections to psychology, education, organizational behavior, and career development. Collaborations could help validate the framework and refine its applications.  
-
-- **Case Studies & Examples**  
-  Add real-world stories, use cases, and visual walkthroughs showing how individuals or teams can apply the ES Matrix.  
-
-- **Community Input**  
-  Open the repo for contributions, feedback, and adaptations—helping the matrix evolve into a shared tool for human flourishing.  
 ---
+
+## Early Work & Roadmap  
+
+### Phase 1: Concept Foundations (Completed)  
+- Developed the Effort–Satisfaction Matrix as a core framework.  
+- Created visual diagrams to illustrate the 1a/1b/2a/2b pathways.  
+- Aligned the framework with the mission of Neo-Renaissance Humanism — blending STEM, humanities, and AI.  
+
+### Phase 2: Initial Prototyping (In Progress)  
+- Design lightweight demo tools (static mockups, simple scripts) to simulate MHT pathways.  
+- Explore integration options with OpenAI’s API for conversational and personalized guidance.  
+- Gather early feedback from peers and mentors.  
+
+### Phase 3: MVP Development (Upcoming)  
+- Build an AI-powered interactive platform (web/app) for goal setting, reflection, and habit tracking.  
+- Incorporate personalized recommendations based on data science and behavioral psychology.  
+- Validate early use cases through pilot testing with a small group.  
+
+### Phase 4: Community & Scaling (Future)  
+- Foster a builder and user community around NRHC principles.  
+- Iterate on the platform based on community feedback and research insights.  
+- Scale features to support both 1b → 1a transitions (finding fulfillment in effort) and 2b → 2a transitions (finding contentment without struggle).  
+
+*Current focus: Phase 2 — Prototyping core features.*  
+
+---
+
 ## Diagrams
 
 ### 1. Base Matrix
@@ -120,38 +138,3 @@ If you’d like to contribute:
 ### License
 This project is licensed under the [MIT License](./LICENSE).  
 You’re free to use, modify, and share it, as long as proper attribution is given.  
-
-🚀 Early Work & Roadmap
-Phase 1: Concept Foundations (✔️ Completed)
-
-Developed the Effort–Satisfaction Matrix as a core framework.
-
-Created visual diagrams to illustrate the 1a/1b/2a/2b pathways.
-
-Aligned the framework with the mission of Neo-Renaissance Humanism — blending STEM, humanities, and AI.
-
-Phase 2: Initial Prototyping (🔄 In Progress)
-
-Design lightweight demo tools (static mockups, simple scripts) to simulate MHT pathways.
-
-Explore integration options with OpenAI’s API for conversational and personalized guidance.
-
-Gather early feedback from peers and mentors.
-
-Phase 3: MVP Development (⏳ Upcoming)
-
-Build an AI-powered interactive platform (web/app) for goal setting, reflection, and habit tracking.
-
-Incorporate personalized recommendations based on data science + behavioral psychology.
-
-Validate early use cases through pilot testing with a small group.
-
-Phase 4: Community & Scaling (🌍 Future)
-
-Foster a builder + user community around NRHC principles.
-
-Iterate on the platform based on community feedback and research insights.
-
-Scale features to support both 1b → 1a transitions (finding fulfillment in effort) and 2b → 2a transitions (finding contentment without struggle).
-
-_Current focus: Prototyping core features (Phase 2)_
