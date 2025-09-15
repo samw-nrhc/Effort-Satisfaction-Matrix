@@ -24,9 +24,19 @@ The ES Matrix helps people:
 - As a **framework for research** on motivation, satisfaction, and human flourishing.  
 - As the foundation for the **Maximum Happiness Tool (MHT)**, an AI-powered platform that helps people move toward fulfillment or contentment.  
 
+---
+## Getting Started
+
+### View the Matrix
+The core of this project is a set of **visual diagrams** that map effort vs. satisfaction:
+
+- [Effort–Satisfaction Matrix](./ES%20matrix%201.png)  
+- [How MHT Supports the Matrix (v1)](./ES%20matrix%202.png)  
+- [How MHT Supports the Matrix (v2)](./ES%20matrix%203.png)  
+
+Click the links above or browse the `/` folder to see the images directly.  
 
 ---
-
 ## Diagrams
 
 ### 1. Base Matrix
@@ -63,4 +73,24 @@ An expanded version illustrating **alternative pathways**:
 The ES Matrix is designed to:
 - Highlight the balance between **effort** and **satisfaction**.  
 - Show that movement across quadrants isn’t always linear.  
-- Spark conversations around how individuals can find sustainable fulfillment.  
+- Spark conversations around how individuals can find sustainable fulfillment.
+
+### Contributing
+This project is in its early stages. Contributions are welcome!  
+Ways you can help:  
+- Share feedback on the clarity of the framework.  
+- Suggest improvements to the diagrams.  
+- Explore connections to psychology, education, or career development research.  
+
+If you’d like to contribute:  
+1. Fork the repo  
+2. Create a new branch (`git checkout -b feature-idea`)  
+3. Commit changes (`git commit -m 'Add new idea'`)  
+4. Push to the branch (`git push origin feature-idea`)  
+5. Open a Pull Request  
+
+---
+
+### License
+This project is licensed under the [MIT License](./LICENSE).  
+You’re free to use, modify, and share it, as long as proper attribution is given.  
