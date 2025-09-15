@@ -1,2 +1,66 @@
-# Effort-Satisfaction-Matrix
-A visual framework for mapping "effort vs. satisfaction" in personal and professional growth. The goal: help more people move toward fulfillment (1b → 1a) and reduce unnecessary struggle (2b → 2a).
+# Effort–Satisfaction Matrix (ES Matrix)
+
+## What is this project?
+The Effort–Satisfaction Matrix (ES Matrix) is a **visual framework** for understanding how effort and fulfillment interact in personal and professional growth.  
+
+It provides a simple but powerful way to reflect on where you are today, why you might feel stuck, and how to move toward a more sustainable and fulfilling life.  
+
+---
+
+## Why it matters
+- Many people work hard yet feel dissatisfied (Quadrant 1b).  
+- Others drift into low effort but also low satisfaction (Quadrant 2b).  
+- Very few reach the rare states of **aligned effort with fulfillment (1a)** or **contentment with simplicity (2a)**.  
+
+The ES Matrix helps people:
+- Map their current state.  
+- Visualize possible paths forward.  
+- Understand that **movement across quadrants isn’t always linear** — progress can happen through direct or crossed paths.  
+
+---
+
+## How this project is used
+- As a **tool for self-reflection** in career, education, or personal growth.  
+- As a **framework for research** on motivation, satisfaction, and human flourishing.  
+- As the foundation for the **Maximum Happiness Tool (MHT)**, an AI-powered platform that helps people move toward fulfillment or contentment.  
+
+
+---
+
+## Diagrams
+
+### 1. Base Matrix
+![Effort-Satisfaction Matrix](./ES%20matrix%201.png)
+
+This diagram introduces the four quadrants of the Effort–Satisfaction Matrix:  
+- **1a**: High effort, high satisfaction (rare: aligned effort).  
+- **1b**: High effort, low satisfaction (common: stress, trapped).  
+- **2a**: Low effort, high satisfaction (rare: simplicity/content minimalists).  
+- **2b**: Low effort, low satisfaction (common: stuck, restless).  
+
+---
+
+### 2. How MHT Supports the Matrix (Direct Paths)
+![MHT Support Matrix](./ES%20matrix%202.png)
+
+This version shows how the **Maximum Happiness Tool (MHT)** supports people moving between quadrants:  
+- Helping **1b → 1a**: finding meaning and reducing stress.  
+- Helping **2b → 2a**: building small wins and energy to reach contentment.  
+
+---
+
+### 3. How MHT Supports the Matrix (Crossed Paths)
+![MHT Support Matrix (Crossed Paths)](./ES%20matrix%203.png)
+
+An expanded version illustrating **alternative pathways**:  
+- Some individuals may “cross” quadrants on their way to fulfillment (e.g., 2b → 1a or 1b → 2a).  
+- This highlights that growth is not always linear — multiple viable journeys exist.  
+
+---
+
+## Overview
+
+The ES Matrix is designed to:
+- Highlight the balance between **effort** and **satisfaction**.  
+- Show that movement across quadrants isn’t always linear.  
+- Spark conversations around how individuals can find sustainable fulfillment.  
