@@ -120,6 +120,7 @@ The ES Matrix is designed to:
 - Spark conversations around how individuals can find sustainable fulfillment.
 
 This project is built on a simple philosophy: `while t and E: δ += ε`
+
 As long as time and energy remain, progress can always be made — even in the smallest steps.
 
 ### Contributing
