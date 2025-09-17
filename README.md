@@ -119,6 +119,11 @@ The ES Matrix is designed to:
 - Show that movement across quadrants isn’t always linear.  
 - Spark conversations around how individuals can find sustainable fulfillment.
 
+This project is built on a simple philosophy:
+**while t and E: δ += ε**
+
+As long as time and energy remain, progress can always be made — even in the smallest steps.
+
 ### Contributing
 This project is in its early stages. Contributions are welcome!  
 Ways you can help:  
