@@ -121,7 +121,7 @@ The ES Matrix is designed to:
 
 This project is built on a simple philosophy: `while t and E: δ += ε`
 
-As long as time and energy remain, progress can always be made — even in the smallest steps.
+We are constrained by the time and energy we have, but small, consistent epsilons (ε) can compound into long-term transformation (δ).
 
 ### Contributing
 This project is in its early stages. Contributions are welcome!  
