@@ -119,9 +119,9 @@ The ES Matrix is designed to:
 - Show that movement across quadrants isn’t always linear.  
 - Spark conversations around how individuals can find sustainable fulfillment.
 
-This project is built on a simple philosophy: `while t and E: δ += ε`
+The project’s core philosophy is captured in a simple pseudo-code snippet: `while t and E: δ += ε`
 
-We are constrained by the time and energy we have, but small, consistent epsilons (ε) can compound into long-term transformation (δ).
+We are constrained by the time and energy we have, but small, consistent actions (epsilon/ε) can compound into long-term transformation (delta/δ).
 
 ### Contributing
 This project is in its early stages. Contributions are welcome!  
